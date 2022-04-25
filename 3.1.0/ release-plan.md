@@ -44,5 +44,5 @@ openGauss 3.1.0是规划在2022年9月30日发布的创新版本，面向openGau
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入3.1.0的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
-2、申请在版本release management sig例会上评审需求 （owner或者SIG maintainer参会）
+2、申请特性在TC例会进行评审，评审通过后在release management sig例会进行详细交付计划制定与评审
 <br><br>
