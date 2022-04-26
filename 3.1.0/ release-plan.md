@@ -36,8 +36,17 @@ openGauss 3.1.0 Release版本发布的关键需求列表如下： <br>
 
 |no|feature|status|sig|owner|
 |:------|:-------|:-------|:-------|:-------|
-|       |        |        |        |        |
-<br>
+| I50PXY      |【openGauss】发布订阅产品化能力增强    |Developing|        |        |
+| I50Q06      |【openGauss】MySQL兼容性回合到社区    |Developing|        |        |
+| I50PZM      |【openGauss】SQL引擎插件化能力增强  |Developing|        |        |
+| I50PZV      |【openGauss】实现对MySQL简单语法的替换   |Developing|        |        |
+| I50PYI      |【openGauss】MySQL数据全量迁移性能满足100MB/s   |Developing|        |        |
+| I50PYM      |【openGauss】MySQL增量迁移性能提升，支持1W tps   |Developing|        |        |
+| I50PY8      |【众智】MySQL对象全量迁移能力支持    |Developing|        |        |
+| I50PYC      |【众智】MySQL DDL增量迁移能力支持    |Developing|        |        |
+| I54AV9      |【众智】orafce插件支持openGauss    |Developing|        |        |
+
+现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。<br>
 状态说明：Discussion(方案讨论，需求未接受)、 Developing(开发中)、 Testing(测试中)、 Accepted(已验收) <br>
 <br>
 
