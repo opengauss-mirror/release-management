@@ -2,7 +2,7 @@
 
 Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA等各个团队，完成openGauss社区版本的发布工作。主要职责如下：
 
-- 规划和计划openEuler版本的发行时间表
+- 规划和计划openGauss版本的发行时间表
 - 在开发/测试周期中跟踪（更新updates或功能feature）的开发状态
 - 发布协调（在QA，发布工程师，技术委员会等范围内），参与相关组和发布相关等会议
 - 负责openGauss项目的交付过程协调
