@@ -30,7 +30,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |明沛| [@dolphin-m](https://gitee.com/dolphin-m) | mingpei@huawei.com|
 |张文龙| [@willloong](https://gitee.com/willloong) | vastdata.com.cn|
 |田兵|[@tbing8803](https://gitee.com/tbing8803) | bing.tian@enmotech.com|
-|王炜|[@wangwei5](https://gitee.com/wangwei5) | bing.tian@enmotech.com|
+|王炜|[@wangwei5](https://gitee.com/wangwei5) | wangwei5@huawei.com|
 
 
 ## release maintainer竞选流程及原则
