@@ -40,7 +40,7 @@ openGauss 3.1.0 Release版本发布的关键需求列表如下： <br>
 |      |支持基于共享存储、共享内存的资源池化架构，满足实时一致性的一写多读    |Developing| DCF       |        |
 |      |集成openLookeng，提供集群AP能力   |Developing| Plugin       |        |
 |      |CM管理ShardingSphere Proxy和注册中心，支持异常情况重新拉起 |Developing| CM       |        |
-|      |轻量化版本支持发布订阅功能   |Developing|        | SQLEngine       |
+|      |轻量化版本支持发布订阅功能   |Developing| SQLEngine         | |
 |      |行存表压缩能力增强（高效压缩算法） |Developing|    StorageEngine    |        |
 |      |发布订阅能力增强，支持基础数据同步和备份恢复  |Developing| SQLEngine       |        |
 |      |支持嵌入式C预处理器   |Developing|    SQLEngine    |        |
