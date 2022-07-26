@@ -433,7 +433,7 @@ QA Sig组maintainer在双周例会上针对处于“测试方案评审”状态�
 ### **2.2.4 代码编写与自测**
 
 
-开发责任人按照华为代码编写格式和提交要求完成代码输出和自验，并提交[checkin报告模板](https://gitee.com/opengauss/community/blob/master/check-in/template/opengGauss%20SQL%E5%85%BC%E5%AE%B9%E6%80%A7%E9%9C%80%E6%B1%82%E9%AA%8C%E6%94%B6checkin%E6%A8%A1%E6%9D%BF.md)。满足checkin的条件后，邮件知会RM  sig组申请进入“代码检视”阶段。RM sig组成员审视交付件满足度情况，针对满足条件的需求变更issue状态为“代码检视”。并提交对应的PR，建立PR与issue的关联关系。
+开发责任人按照华为代码编写格式和提交要求完成代码输出和自验，并提交[checkin报告模板](https://gitee.com/opengauss/community/tree/master/check-in/template)。满足checkin的条件后，邮件知会RM  sig组申请进入“代码检视”阶段。RM sig组成员审视交付件满足度情况，针对满足条件的需求变更issue状态为“代码检视”。并提交对应的PR，建立PR与issue的关联关系。
 
 
 ### **2.2.5 代码提交**
