@@ -37,26 +37,22 @@ openGauss 3.1.0 Release版本发布的关键需求列表如下： <br>
 
 |no|feature|status|sig|owner|
 |:------|:-------|:-------|:-------|:-------|
-|      |支持基于共享存储、共享内存的资源池化架构，满足实时一致性的一写多读    |Developing| DCF       |        |
+|      |支持基于共享存储、共享内存的资源池化架构，满足实时一致性的一写多读    |Developing| StorageEngine|        |
 |      |集成openLookeng，提供集群AP能力   |Developing| Plugin       |        |
 |      |CM管理ShardingSphere Proxy和注册中心，支持异常情况重新拉起 |Developing| CM       |        |
-|      |轻量化版本支持发布订阅功能   |Developing| SQLEngine         | |
+|      |轻量化版本支持发布订阅功能   |Developing| StorageEngine| |
 |      |行存表压缩能力增强（高效压缩算法） |Developing|    StorageEngine    |        |
 |      |发布订阅能力增强，支持基础数据同步和备份恢复  |Developing| SQLEngine       |        |
-|      |支持嵌入式C预处理器   |Developing|    SQLEngine    |        |
-|      |支持基于主备双集群流式复制的异地容灾方案    |Developing| SQLEngine       |        |
-|      |主机支持记录满足多数派日志的LSN，gs_ctl build支持拒绝目标LSN比此LSN要小的增量build    |Developing|SQLEngine        |        |
+|      |支持基于主备双集群流式复制的异地容灾方案    |Developing| StorageEngine|        |
+|      |主机支持记录满足多数派日志的LSN，gs_ctl build支持拒绝目标LSN比此LSN要小的增量build    |Developing|StorageEngine|        |
 |      |CM开放状态查询和推送能力，支持用户应用/中间件感知当前主备角色    |Developing|CM       |        |
-|      |CCM支持用户自定义组件监控和管理    |Developing|CM       |        |
-|      |并发场景抗过载逃生能力增强   |Developing|SQLEngine      |        |
+|      |CM支持用户自定义组件监控和管理    |Developing|CM       |        |
 |      |DCF策略化多数派   |Developing|DCF    |        |
-|      |运行态查询计划展示   |Developing|SQLEngine   |        |
 |      |postgresql_fdw执行性能提升，支持聚合和条件下推到远端执行功能   |Developing|Plugin   |        |
 |      |基础算子性能提升  |Developing|SQLEngine  |        |
 |      |DBMind自治运维平台  |Developing|AI  |        |
 |      |智能优化器  |Developing|AI  |        |
-|      |支持国密SSL加密传输 |Developing|SecurityTechnology  |        |
-|      |支持SHA256哈希函数 |Developing|SecurityTechnology  |        |
+|      |支持细粒度Any权限增强 |Developing|SecurityTechnology  |        |
 |      |MySQL全量迁移性能提升 |Developing|Tools  |        |
 |      |支持MySQL增量迁移 |Developing|Tools  |        |
 |      |支持数据全量&增量校验 |Developing|Tools  |        |
