@@ -37,7 +37,7 @@ openGauss 3.1.0 Release版本发布的关键需求列表如下： <br>
 
 |no|feature|status|sig|owner|
 |:------|:-------|:-------|:-------|:-------|
-|I5NJPB(https://gitee.com/opengauss/release-management/issues/I5NJPB)      |支持基于共享存储、共享内存的资源池化架构，满足实时一致性的一写多读    |Developing| StorageEngine|        |
+|[I5NJPB](https://gitee.com/opengauss/release-management/issues/I5NJPB)|支持基于共享存储、共享内存的资源池化架构，满足实时一致性的一写多读|Developing| StorageEngine|        |
 |      |集成openLookeng，提供集群AP能力   |Developing| Plugin       |        |
 |      |CM管理ShardingSphere Proxy和注册中心，支持异常情况重新拉起 |Developing| CM       |        |
 |      |轻量化版本支持发布订阅功能   |Developing| StorageEngine| |
