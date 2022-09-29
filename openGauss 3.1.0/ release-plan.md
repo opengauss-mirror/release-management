@@ -37,31 +37,31 @@ openGauss 3.1.0 Release版本发布的关键需求列表如下： <br>
 
 |no|feature|status|sig|owner|
 |:------|:-------|:-------|:-------|:-------|
-|      |集成openLookeng，提供集群AP能力   |Developing| Plugin       |        |
-|      |CM管理ShardingSphere Proxy和注册中心，支持异常情况重新拉起 |Developing| CM       |        |
-|      |轻量化版本支持发布订阅功能   |Developing| StorageEngine| |
-|      |行存表压缩能力增强（高效压缩算法） |Developing|    StorageEngine    |        |
-|      |发布订阅能力增强，支持基础数据同步和备份恢复  |Developing| SQLEngine       |        |
-|      |支持基于主备双集群流式复制的异地容灾方案    |Developing| StorageEngine|        |
-|      |主机支持记录满足多数派日志的LSN，gs_ctl build支持拒绝目标LSN比此LSN要小的增量build    |Developing|StorageEngine|        |
-|      |CM开放状态查询和推送能力，支持用户应用/中间件感知当前主备角色    |Developing|CM       |        |
-|      |CM支持用户自定义组件监控和管理    |Developing|CM       |        |
-|      |DCF策略化多数派   |Developing|DCF    |        |
-|      |postgresql_fdw执行性能提升，支持聚合和条件下推到远端执行功能   |Developing|Plugin   |        |
-|      |基础算子性能提升  |Developing|SQLEngine  |        |
-|      |DBMind自治运维平台  |Developing|AI  |        |
-|      |智能优化器  |Developing|AI  |        |
-|      |支持细粒度Any权限增强 |Developing|SecurityTechnology  |        |
-|      |MySQL全量迁移性能提升 |Developing|Tools  |        |
-|      |支持MySQL增量迁移 |Developing|Tools  |        |
-|      |支持数据全量&增量校验 |Developing|Tools  |        |
-|      |数据类型兼容 |Developing|SQLEngine  |        |
-|      |系统函数兼容 |Developing|SQLEngine  |        |
-|      |DDL兼容 |Developing|SQLEngine  |        |
-|      |DML兼容 |Developing|SQLEngine  |        |
-|      |PL/SQL兼容 |Developing|SQLEngine  |        |
-|      |SHOW语法兼容|Developing|SQLEngine  |        |
-|      |其他语法兼容|Developing|SQLEngine  |        |
+|      |集成openLookeng，提供集群AP能力   |Accepted| Plugin       |        |
+|      |CM管理ShardingSphere Proxy和注册中心，支持异常情况重新拉起 |Accepted| CM       |        |
+|      |轻量化版本支持发布订阅功能   |Accepted| StorageEngine| |
+|      |行存表压缩能力增强（高效压缩算法） |Accepted|    StorageEngine    |        |
+|      |发布订阅能力增强，支持基础数据同步和备份恢复  |Accepted| SQLEngine       |        |
+|      |支持基于主备双集群流式复制的异地容灾方案    |Accepted| StorageEngine|        |
+|      |主机支持记录满足多数派日志的LSN，gs_ctl build支持拒绝目标LSN比此LSN要小的增量build    |Accepted|StorageEngine|        |
+|      |CM开放状态查询和推送能力，支持用户应用/中间件感知当前主备角色    |Accepted|CM       |        |
+|      |CM支持用户自定义组件监控和管理    |Accepted|CM       |        |
+|      |DCF策略化多数派   |Accepted|DCF    |        |
+|      |postgresql_fdw执行性能提升，支持聚合和条件下推到远端执行功能   |Accepted|Plugin   |        |
+|      |基础算子性能提升  |Accepted|SQLEngine  |        |
+|      |DBMind自治运维平台  |Accepted|AI  |        |
+|      |智能优化器  |Accepted|AI  |        |
+|      |支持细粒度Any权限增强 |Accepted|SecurityTechnology  |        |
+|      |MySQL全量迁移性能提升 |Accepted|Tools  |        |
+|      |支持MySQL增量迁移 |Accepted|Tools  |        |
+|      |支持数据全量&增量校验 |Accepted|Tools  |        |
+|      |数据类型兼容 |Accepted|SQLEngine  |        |
+|      |系统函数兼容 |Accepted|SQLEngine  |        |
+|      |DDL兼容 |Accepted|SQLEngine  |        |
+|      |DML兼容 |Accepted|SQLEngine  |        |
+|      |PL/SQL兼容 |Accepted|SQLEngine  |        |
+|      |SHOW语法兼容|Accepted|SQLEngine  |        |
+|      |其他语法兼容|Accepted|SQLEngine  |        |
 
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。<br>
