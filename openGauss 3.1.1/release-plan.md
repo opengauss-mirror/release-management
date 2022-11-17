@@ -20,7 +20,7 @@ openGauss 3.1.1是规划在2022年12月31日发布的社区公测版本，面向
 
 # 代码合入说明
 
-按照[社区开发流程规范](https://gitee.com/opengauss/release-management/blob/master/openGauss%E7%A4%BE%E5%8C%BA%E5%8C%96%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%E8%A7%84%E8%8C%83.md)在第一轮集成测试启动前将新特性代码及时合入master分支&完成测试验收
+按照[社区开发流程规范](https://gitee.com/opengauss/release-management/blob/master/openGauss%E7%A4%BE%E5%8C%BA%E5%8C%96%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%E8%A7%84%E8%8C%83.md)在第一轮集成测试启动前将新特性代码及时合入master分支并完成测试验收
 
 
 # Feature list
@@ -33,6 +33,6 @@ openGauss 3.1.1是规划在2022年12月31日发布的社区公测版本，面向
 <br>
 
 # 需求/特性反馈基本流程 <br />
-1、开发者/sig在本贴的表格中填写要合入5.0.0的需求/特性，并同时填写需求issue及链接     <br>
+1、开发者/sig在本贴的表格中填写要合入的需求/特性，并同时填写需求issue及链接     <br>
 2、申请特性在TC例会进行评审，评审通过后在release management sig例会进行详细交付计划制定与评审
 <br><br>
