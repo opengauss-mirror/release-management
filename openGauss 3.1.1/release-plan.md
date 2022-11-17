@@ -24,8 +24,7 @@ openGauss 3.1.1是规划在2022年12月31日发布的社区公测版本，面向
 
 
 # Feature list
-openGauss 3.1.1 版本关键需求列表如下： <br>
-[openGauss 3.1.1版本需求列表](https://e.gitee.com/opengaussorg/projects/451125/requirements/table)
+详见[openGauss 3.1.1 版本需求列表](https://e.gitee.com/opengaussorg/projects/451125/requirements/table)
 
 
 
