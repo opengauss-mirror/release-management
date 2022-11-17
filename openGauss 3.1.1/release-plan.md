@@ -19,8 +19,9 @@ openGauss 3.1.1是规划在2022年12月31日发布的社区公测版本，面向
 
 
 # 代码合入说明
-创新版本代码继承master分支 <br>
-// 新特性代码请及时合入版本&自验证，跟随整体计划转测试
+
+按照[社区开发流程规范](https://gitee.com/opengauss/release-management/blob/master/openGauss%E7%A4%BE%E5%8C%BA%E5%8C%96%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%E8%A7%84%E8%8C%83.md)在第一轮集成测试启动前
+将新特性代码请及时合入master分支&完成测试验收
 
 
 # Feature list
@@ -29,7 +30,7 @@ openGauss 3.1.1是规划在2022年12月31日发布的社区公测版本，面向
 
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。<br>
-状态说明：Discussion(方案讨论，需求未接受)、 Developing(开发中)、 Testing(测试中)、 Accepted(已验收) <br>
+
 <br>
 
 # 需求/特性反馈基本流程 <br />
