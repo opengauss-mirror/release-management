@@ -11,8 +11,8 @@ openGauss 3.1.1是规划在2022年12月31日发布的社区公测版本，面向
 | 需求方案设计        | 2022/10/8  | 2022/10/30  | 23   | 交付需求方案设计（各SIG自行完成需求方案设计评审）   |
 | 需求开发验收           | 2022/11/1  | 2022/11/30  | 30   | 需求完成开发和自验证，代码提交合入master，测试验收    |
 | 第一轮集成测试          | 2022/12/1 | 2022/12/7  | 7    | 版本集成测试，管控代码合入，原则上只允许bug fix                         |
-| 第二轮集成测试          | 2022/12/8 | 2022/12/14  | 7    | 回归测试，管控代码合入，原则上只允许bug fix                            |
-| 第三轮集成测试          | 2022/12/15 | 2022/12/23  | 7    | 回归测试，管控代码合入，原则上只允许bug fix                          |
+| 第二轮集成测试          | 2022/12/8 | 2022/12/14  | 7    | 版本集成测试，管控代码合入，原则上只允许bug fix                            |
+| 第三轮集成测试          | 2022/12/15 | 2022/12/23  | 7    | 版本集成测试，管控代码合入，原则上只允许bug fix                          |
 | 预留buffer             | 2022/12/24  | 2022/12/28   | 5    |预留buffer解决突发问题       |
 | 发布准备测试           | 2022/12/29  | 2022/12/30  | 2     | 版本发布测试        |
 | Release               | 2022/12/31 | 2022/12/31   | 1    | 版本发布                                         |
@@ -24,35 +24,9 @@ openGauss 3.1.1是规划在2022年12月31日发布的社区公测版本，面向
 
 
 # Feature list
-openGauss 3.1.1 Release版本发布的关键需求列表如下： <br>
+openGauss 3.1.1 版本关键需求列表如下： <br>
+[openGauss 3.1.1版本需求列表](https://e.gitee.com/opengaussorg/projects/451125/requirements/table)
 
-|no|feature|status|sig|owner|
-|:------|:-------|:-------|:-------|:-------|
-|      |集成openLookeng，提供集群AP能力   |Accepted| Plugin       |        |
-|      |CM管理ShardingSphere Proxy和注册中心，支持异常情况重新拉起 |Accepted| CM       |        |
-|      |轻量化版本支持发布订阅功能   |Accepted| StorageEngine| |
-|      |行存表压缩能力增强（高效压缩算法） |Accepted|    StorageEngine    |        |
-|      |发布订阅能力增强，支持基础数据同步和备份恢复  |Accepted| SQLEngine       |        |
-|      |支持基于主备双集群流式复制的异地容灾方案    |Accepted| StorageEngine|        |
-|      |主机支持记录满足多数派日志的LSN，gs_ctl build支持拒绝目标LSN比此LSN要小的增量build    |Accepted|StorageEngine|        |
-|      |CM开放状态查询和推送能力，支持用户应用/中间件感知当前主备角色    |Accepted|CM       |        |
-|      |CM支持用户自定义组件监控和管理    |Accepted|CM       |        |
-|      |DCF策略化多数派   |Accepted|DCF    |        |
-|      |postgresql_fdw执行性能提升，支持聚合和条件下推到远端执行功能   |Accepted|Plugin   |        |
-|      |基础算子性能提升  |Accepted|SQLEngine  |        |
-|      |DBMind自治运维平台  |Accepted|AI  |        |
-|      |智能优化器  |Accepted|AI  |        |
-|      |支持细粒度Any权限增强 |Accepted|SecurityTechnology  |        |
-|      |MySQL全量迁移性能提升 |Accepted|Tools  |        |
-|      |支持MySQL增量迁移 |Accepted|Tools  |        |
-|      |支持数据全量&增量校验 |Accepted|Tools  |        |
-|      |数据类型兼容 |Accepted|SQLEngine  |        |
-|      |系统函数兼容 |Accepted|SQLEngine  |        |
-|      |DDL兼容 |Accepted|SQLEngine  |        |
-|      |DML兼容 |Accepted|SQLEngine  |        |
-|      |PL/SQL兼容 |Accepted|SQLEngine  |        |
-|      |SHOW语法兼容|Accepted|SQLEngine  |        |
-|      |其他语法兼容|Accepted|SQLEngine  |        |
 
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。<br>
