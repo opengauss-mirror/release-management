@@ -9,7 +9,7 @@
 
 - **社区创新版本（Preview）**：联创测试使用，发布间隔周期定为1年，提供6个月社区支持。
 
-![输入图片说明](picture/openGauss%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
+![输入图片说明](picture/openGauss%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)![输入图片说明](picture/openGauss%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
 
 
 
