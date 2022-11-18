@@ -27,10 +27,10 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 **Commiter:**
 | 姓名| GiteeID           | 邮件地址  |
 | :-------------: |:--------:| :-----|
-|明沛| [@dolphin-m](https://gitee.com/dolphin-m) | mingpei@huawei.com|
-|张文龙| [@willloong](https://gitee.com/willloong) | vastdata.com.cn|
-|田兵|[@tbing8803](https://gitee.com/tbing8803) | bing.tian@enmotech.com|
-|王炜|[@wangwei5](https://gitee.com/wangwei5) | wangwei5@huawei.com|
+|熊小军| [@xiong_xjun](https://gitee.com/xiong_xjun) | xiong_xiaojun@yeah.net|
+|张文龙| [@willloong](https://gitee.com/willloong) | 1259931895@qq.com|
+|刘伟|[@llzx373](https://gitee.com/llzx373) | llzx373@hotmail.com|
+|张旭博|[@zhang_xubo](https://gitee.com/zhang_xubo) | 2578876417@qq.com|
 
 
 ## release maintainer竞选流程及原则
