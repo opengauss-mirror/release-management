@@ -1,7 +1,7 @@
 # Version Info
-openGauss 5.0.0是规划在2023年3月31日发布的社区release版本，面向openGauss的场景化、工具链和兼容性场景，提供更多新特性和功能，给开发者和用户带来全新的体验，服务更多的领域和更多的用户。<br>
+openGauss 5.1.0是规划在2023年9月30日发布的社区preview版本，面向openGauss的场景化、工具链和兼容性场景，提供更多新特性和功能，给开发者和用户带来全新的体验，服务更多的领域和更多的用户。<br>
 
-5.0.0版本整体开发周期为2023年1月3日至2023年3月31日，实际开发过程按以下计划进行需求方案设计、开发、测试验收。<br>
+5.1.0版本整体开发周期为2023年4月1日至2023年9月30日，实际开发过程按以下计划进行需求方案设计、开发、测试验收。<br>
 
 # Release Plan
 
@@ -31,7 +31,7 @@ openGauss 5.0.0是规划在2023年3月31日发布的社区release版本，面向
 
 
 # Feature list
-详见[openGauss 5.0.0 版本需求列表](https://e.gitee.com/opengaussorg/projects/477260/requirements/table)，现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。<br>
+详见[openGauss 5.1.0 版本需求列表](https://e.gitee.com/opengaussorg/projects/492431/requirements/kanban/states)，现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。<br>
 
 <br>
 
