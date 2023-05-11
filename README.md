@@ -1,6 +1,6 @@
 # 发行经理
 
-Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA等各个团队，完成openGauss社区版本的发布工作。主要职责如下：
+ReleaseManagement sig的主要工作职责是在社区协调各SIG的Maintainer、QA等各个团队，完成openGauss社区版本的发布工作，主要职责如下：
 
 - 规划和计划openGauss版本的发行时间表
 - 在开发/测试周期中跟踪（更新updates或功能feature）的开发状态
@@ -14,7 +14,7 @@ Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA�
 公开的视频会议时间：北京时间双周三下午，14:15~16:15，请订阅releasemanagement@opengauss.org，以获取相关会议通知
 
 ## 会议纪要归档
-release management sig历次会议纪要均做归档，详情请查询历史[会议纪要归档etherpad](https://etherpad.opengauss.org/p/ReleaseManagement-meetings)
+ReleaseManagement sig历次会议纪要均做归档，详情请查询历史[会议纪要归档etherpad](https://etherpad.opengauss.org/p/ReleaseManagement-meetings)
 
 ## 成员
 **Maintainer：**
