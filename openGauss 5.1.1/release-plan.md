@@ -26,7 +26,7 @@ openGauss 5.1.1是规划在2023年12月30日发布的社区preview版本，面�
 
 
 # Feature list
-详见[openGauss 5.1.1 版本需求列表](https://e.gitee.com/opengaussorg/projects/492431/requirements/kanban/states)，现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。<br>
+详见[openGauss 5.1.1 版本需求列表](https://e.gitee.com/opengaussorg/projects/545985/requirements/table)，现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。<br>
 
 <br>
 
