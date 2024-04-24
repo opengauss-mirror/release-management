@@ -1,4 +1,4 @@
-# Release Plan
+# openGauss社区版本生命周期公告
 
 
 |openGauss 社区版本             | 发布时间  | 计划维护时长  | 计划停止维护时间 | 状态                                      |
